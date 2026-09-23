@@ -1,1 +1,1 @@
-ีThis project is developed by Team A.
+TThis project is developed by Team A.
